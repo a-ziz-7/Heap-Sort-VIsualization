@@ -1,6 +1,10 @@
-# Merge-Sort-VIsualization
+# Merge-Sort-Visualization
 
-## Example of Use
+## About
+
+Merge-Sort-Visualization project is a way to see the operations that happen during the heap sort since the program convers an array into a binary tree like looking string. It allows people to easily understand concepts of the heap sort.
+  
+## Usage
 
 Enter A Number (1-31):
 15
