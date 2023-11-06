@@ -9,6 +9,7 @@ Heap-Sort-Visualization project is a way to see the operations that happen durin
 Enter A Number (1-31):
 15
 
+
 [82, 72, 56, 67, 21, 12, 85, 7, 13, 25, 97, 100, 86, 11, 41]
 
                                  |100|                              
